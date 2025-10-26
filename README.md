@@ -170,3 +170,9 @@ Me chamo Cauã Souza Dias, estou cursando Ciência da Computação na UNIMAR e s
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua-dias&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=10" 
 />
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/caua-dias/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/caua-dias/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/caua-dias/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
